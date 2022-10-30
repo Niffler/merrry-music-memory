@@ -10,10 +10,10 @@
 const int numSongs = 18;
 Music songs[18];
 
-const int CARD_ROWS = 2;
-const int CARD_COLUMNS = 2;
-const int totalCards = 4;
-Card cards[4];
+const int CARD_ROWS = 4;
+const int CARD_COLUMNS = 4;
+const int totalCards = 16;
+Card cards[16];
 
 const size_t lenFlakes = 400;
 Flake flakes[400];
