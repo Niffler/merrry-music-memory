@@ -32,6 +32,6 @@ The green score at the top indicates the current player. In the following screen
 ![Turn of player 2](/screenshots/player_2_mismatch.png)
 
 
-When all cards have been matched and disappeared, the player with the highes score wins. 
+When all cards have been matched and disappeared, the player with the highest score wins. 
 ![End of game](/screenshots/game_end.png)
 
